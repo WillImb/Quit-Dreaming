@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "QuitDreaming",
+			"Path": "..\\Source\\QuitDreaming.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "QuitDreamingEditor",
+			"Path": "..\\Source\\QuitDreamingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

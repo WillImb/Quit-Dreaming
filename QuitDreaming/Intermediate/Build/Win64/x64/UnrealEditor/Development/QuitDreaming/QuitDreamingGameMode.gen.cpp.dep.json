@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\profiles\\wai5503\\documents\\github\\quit-dreaming\\quitdreaming\\intermediate\\build\\win64\\unrealeditor\\inc\\quitdreaming\\uht\\quitdreaminggamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\profiles\\wai5503\\documents\\github\\quit-dreaming\\quitdreaming\\intermediate\\build\\win64\\x64\\quitdreamingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\profiles\\wai5503\\documents\\github\\quit-dreaming\\quitdreaming\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\quitdreaming\\definitions.quitdreaming.h",
+            "d:\\profiles\\wai5503\\documents\\github\\quit-dreaming\\quitdreaming\\source\\quitdreaming\\quitdreaminggamemode.h",
+            "c:\\program files\\epic games\\5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\profiles\\wai5503\\documents\\github\\quit-dreaming\\quitdreaming\\intermediate\\build\\win64\\unrealeditor\\inc\\quitdreaming\\uht\\quitdreaminggamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

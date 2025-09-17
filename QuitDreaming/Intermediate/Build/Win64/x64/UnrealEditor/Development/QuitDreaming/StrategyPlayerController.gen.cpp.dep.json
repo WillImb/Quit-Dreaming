@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\profiles\\wai5503\\documents\\github\\quit-dreaming\\quitdreaming\\intermediate\\build\\win64\\unrealeditor\\inc\\quitdreaming\\uht\\strategyplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\profiles\\wai5503\\documents\\github\\quit-dreaming\\quitdreaming\\intermediate\\build\\win64\\x64\\quitdreamingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\profiles\\wai5503\\documents\\github\\quit-dreaming\\quitdreaming\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\quitdreaming\\definitions.quitdreaming.h",
+            "d:\\profiles\\wai5503\\documents\\github\\quit-dreaming\\quitdreaming\\source\\quitdreaming\\variant_strategy\\strategyplayercontroller.h",
+            "d:\\profiles\\wai5503\\documents\\github\\quit-dreaming\\quitdreaming\\intermediate\\build\\win64\\unrealeditor\\inc\\quitdreaming\\uht\\strategyplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

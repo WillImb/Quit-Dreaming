@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\QuitDreaming.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\QuitDreaming.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\QuitDreamingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\QuitDreaming">
+      <UniqueIdentifier>{E1970A73-AED7-35F1-A308-60DADBDEB41D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\QuitDreaming\QuitDreaming.Build.cs">
+      <Filter>Source\QuitDreaming</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\QuitDreaming\QuitDreaming.cpp">
+      <Filter>Source\QuitDreaming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\QuitDreaming.h">
+      <Filter>Source\QuitDreaming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\QuitDreamingCharacter.cpp">
+      <Filter>Source\QuitDreaming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\QuitDreamingCharacter.h">
+      <Filter>Source\QuitDreaming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\QuitDreamingGameMode.cpp">
+      <Filter>Source\QuitDreaming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\QuitDreamingGameMode.h">
+      <Filter>Source\QuitDreaming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\QuitDreamingPlayerController.cpp">
+      <Filter>Source\QuitDreaming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\QuitDreamingPlayerController.h">
+      <Filter>Source\QuitDreaming</Filter>
+    </ClInclude>
+    <Filter Include="Source\QuitDreaming\Variant_Strategy">
+      <UniqueIdentifier>{53B244B2-68EC-35CD-90CF-2234F793D7C7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_Strategy\StrategyGameMode.cpp">
+      <Filter>Source\QuitDreaming\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_Strategy\StrategyGameMode.h">
+      <Filter>Source\QuitDreaming\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_Strategy\StrategyHUD.cpp">
+      <Filter>Source\QuitDreaming\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_Strategy\StrategyHUD.h">
+      <Filter>Source\QuitDreaming\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_Strategy\StrategyPawn.cpp">
+      <Filter>Source\QuitDreaming\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_Strategy\StrategyPawn.h">
+      <Filter>Source\QuitDreaming\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_Strategy\StrategyPlayerController.cpp">
+      <Filter>Source\QuitDreaming\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_Strategy\StrategyPlayerController.h">
+      <Filter>Source\QuitDreaming\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_Strategy\StrategyUI.cpp">
+      <Filter>Source\QuitDreaming\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_Strategy\StrategyUI.h">
+      <Filter>Source\QuitDreaming\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_Strategy\StrategyUnit.cpp">
+      <Filter>Source\QuitDreaming\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_Strategy\StrategyUnit.h">
+      <Filter>Source\QuitDreaming\Variant_Strategy</Filter>
+    </ClInclude>
+    <Filter Include="Source\QuitDreaming\Variant_TwinStick">
+      <UniqueIdentifier>{0DCF8E8A-7C54-3D56-8D48-033D13C9499E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickAoEAttack.cpp">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickAoEAttack.h">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickCharacter.cpp">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickCharacter.h">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickGameMode.cpp">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickGameMode.h">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickNPCDestruction.cpp">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickNPCDestruction.h">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickPickup.cpp">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickPickup.h">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickPlayerController.cpp">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickPlayerController.h">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickProjectile.cpp">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickProjectile.h">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickSpawner.cpp">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickSpawner.h">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickUI.cpp">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_TwinStick\TwinStickUI.h">
+      <Filter>Source\QuitDreaming\Variant_TwinStick</Filter>
+    </ClInclude>
+    <Filter Include="Source\QuitDreaming\Variant_TwinStick\AI">
+      <UniqueIdentifier>{1D9BBDAF-6D6D-3278-83A8-F5226397B9CE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_TwinStick\AI\TwinStickAIController.cpp">
+      <Filter>Source\QuitDreaming\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_TwinStick\AI\TwinStickAIController.h">
+      <Filter>Source\QuitDreaming\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_TwinStick\AI\TwinStickNPC.cpp">
+      <Filter>Source\QuitDreaming\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_TwinStick\AI\TwinStickNPC.h">
+      <Filter>Source\QuitDreaming\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\QuitDreaming\Variant_TwinStick\AI\TwinStickStateTreeUtility.cpp">
+      <Filter>Source\QuitDreaming\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuitDreaming\Variant_TwinStick\AI\TwinStickStateTreeUtility.h">
+      <Filter>Source\QuitDreaming\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
